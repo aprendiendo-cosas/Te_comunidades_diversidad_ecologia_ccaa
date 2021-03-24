@@ -41,7 +41,6 @@ A continuación se puede ver la presentación mencionada. [Aquí](https://github
 
 <p><iframe src="https://prezi.com/view/OA9ZbmokEvz2pu7DY9Iq/embed" width="1200" height="900"> </iframe></p>
 
-<p><iframe src="https://prezi.com/view/87Zp1kDAjo7rywP2w2h9/embed" width="1200" height="900"> </iframe></p>
 
 ### Dinámica sobre las relaciones entre los miembros de una comunidad
 
