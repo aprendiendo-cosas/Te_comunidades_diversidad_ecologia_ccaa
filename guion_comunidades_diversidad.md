@@ -35,12 +35,19 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + Diversidad.
   + Diagramas rango-abundancia
 
-A continuación se puede ver la presentación mencionada. Aquí se puede descargar en formato pdf. Aquí se puede descargar la versión interactica para Windows. Y aquí para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactica para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.zip) para Mac.
 
-<p><iframe src="https://prezi.com/view/OA9ZbmokEvz2pu7DY9Iq" width="1200" height="900"> </iframe></p>
+
+
+<p><iframe src="https://prezi.com/view/OA9ZbmokEvz2pu7DY9Iq/embed" width="1200" height="900"> </iframe></p>
+
+
 
 ### Dinámica sobre las relaciones entre los miembros de una comunidad
+
 Es una especie de juego y no tiene gracia que lo cuente por aquí antes de hacerlo :)
+
+
 
 ## Vídeo de la sesión
 
