@@ -47,11 +47,16 @@ Y aquí abajo podéis ver la grabación de la sesión:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AgVVj8FbLSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Dinámica de grupo sobre las relaciones entre los miembros de una comunidad
+
+
+
+
+
+### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
 Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
-La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre los miembros de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
+La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
 
 La dinámica consiste en usar una serie de bolas de corcho o de poliestireno de diferentes tamaños y unos cuantos palitos metálicos de distinta longitud. Una vez que se han descrito los conceptos generales sobre comunidades y diversidad, se les pide a los estudiantes que construyan una estructura con el material anterior. Se procede de la siguiente forma:
 
@@ -70,16 +75,21 @@ A partir de aquí se formulan diversas preguntas que tienen como objeto provocar
   + Una con mucha redundancia: muchas bolas del mismo color.
 + Vamos a seguir complicando la metáfora. Ahora vamos a imaginar que las conexiones son de distintos tipos. La longitud del palito nos da una idea de cómo de "íntima" es la relación entre las especies implicadas. Así, por ejemplo, los palitos más cortos se corresponden con relaciones de parasitismo o simbiosis, en las que las especies implicadas están muy cerca físicamente. ¿Qué crees que pasaría si elimináramos el huésped en una relación de parasitismo? Pista: covid-19...
 
-
 Aquí podéis ver el vídeo con la grabación de la sesión. 
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bv5FNuSkD8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Vídeo de la sesión
+Y unas fotos del estupendo trabajo realizado :)
+
+
+
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/estructura.jpg" alt="grupo" style="zoom:30%;" />
 
 
 
 
 
-
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/grupo.jpg" alt="grupo" style="zoom:30%;" />
 
