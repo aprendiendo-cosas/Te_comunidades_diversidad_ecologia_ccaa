@@ -24,7 +24,7 @@ Esta sesión es clave dentro de la asignatura porque nos permitirá conocer por 
 
 La sesión consta de dos apartados diferenciados. En primer lugar se expondrán los conceptos principales relacionados con los objetivos anteriores. La última parte de la sesión implicará la realización de una dinámica de grupo en la que se abordarán los conceptos de interdependencia y conectividad entre los miembros de una comunidad ecológica.
 
-### Conceptos genereales sobre comunidades ecológicas.
+### Conceptos generales sobre comunidades ecológicas.
 
 Se usará una presentación de prezi como guía para explicar los siguientes conceptos:
 
