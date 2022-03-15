@@ -1,7 +1,7 @@
 # Guión de la sesión "Comunidades. El concepto de diversidad"
 
 
-> + **_Versión_**: 2020-2021
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
@@ -17,6 +17,7 @@ Esta sesión es clave dentro de la asignatura porque nos permitirá conocer por 
 + Conocer algunos descriptores importantes para caracterizar las comunidades ecológicas.
 + Experimentar la importancia de la interdependencia de los miembros de una comunidad.
 + Reconocer la existencia de propiedades emergentes en el concepto de comunidad. 
++ Construir parte del conocimiento anterior mediante una dinámica grupal en la que se promueve el pensamiento colectivo. 
 
 
 
@@ -35,33 +36,24 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + Diversidad.
   + Diagramas rango-abundancia
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2020-2021/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2020-2021/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactica para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2020-2021/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
 <p><iframe src="https://prezi.com/view/OA9ZbmokEvz2pu7DY9Iq/embed" width="1200" height="900"> </iframe></p>
 
 
-Y aquí abajo podéis ver la grabación de la sesión:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AgVVj8FbLSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
-Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2020-2021/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
+Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
 La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
 
 La dinámica consiste en usar una serie de bolas de corcho o de poliestireno de diferentes tamaños y unos cuantos palitos metálicos de distinta longitud. Una vez que se han descrito los conceptos generales sobre comunidades y diversidad, se les pide a los estudiantes que construyan una estructura con el material anterior. Se procede de la siguiente forma:
 
 + Se pone todo el material sobre una mesa grande. Si es posible saldremos a la calle para hacerlo al aire libre.
-+ Cada estudiante va acercándose a la mesa secuencialmente y va montando una parte de una estructura. Une una o dos bolas con uno o dos palitos. Cuando hace su parte deja el testigo al siguiente estudiante. Las bolas pueden tener diferentes palitos pinchados y ningún palito se quedará sin bola en el extremo.
++ Cada estudiante va acercándose a la mesa secuencialmente y va montando una parte de una estructura. Une una o dos bolas con uno o dos palitos. Cuando hace su parte deja el testigo al siguiente estudiante. Las bolas pueden tener diferentes palitos pinchados y ningún palito se quedará sin bola en el extremo. Cada estudiante dice el nombre de la especie o especies que propone que sea representada por la bola que aporta a la estructura.
 + El resultado final es una estructura tridimensional estable en la que hay dos elementos clave: nodos (bolitas) y relaciones (palitos).
 
 A partir de aquí se formulan diversas preguntas que tienen como objeto provocar la comprensión del concepto de relación trofica entre las especies de una comunidad. En concreto se pregunta lo siguiente:
@@ -73,23 +65,17 @@ A partir de aquí se formulan diversas preguntas que tienen como objeto provocar
 + Imagina que coloreamos las bolas con cuatro colores. Cada color representa un "gremio" dentro de la comunidad: productores primarios, herbívoros, depredadores y descomponedores. Hay varias bolas del mismo color. Es decir, especies diferentes que tienen el mismo "papel" en la comunidad. Si ocurriera una perturbación, ¿Cuál de las dos estructuras siguientes sería más "resistente"?:
   + Una con poca redundancia: pocas bolas del mismo color.
   + Una con mucha redundancia: muchas bolas del mismo color.
-+ Vamos a seguir complicando la metáfora. Ahora vamos a imaginar que las conexiones son de distintos tipos. La longitud del palito nos da una idea de cómo de "íntima" es la relación entre las especies implicadas. Así, por ejemplo, los palitos más cortos se corresponden con relaciones de parasitismo o simbiosis, en las que las especies implicadas están muy cerca físicamente. ¿Qué crees que pasaría si elimináramos el huésped en una relación de parasitismo? Pista: covid-19...
-
-Aquí podéis ver el vídeo con la grabación de la sesión. 
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bv5FNuSkD8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Y unas fotos del estupendo trabajo realizado :)
-
-
-
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2020-2021/presentacion/estructura.jpg" alt="grupo" style="zoom:30%;" />
++ Igualmente, ¿cuál de las dos comunidades crees que se recuperará antes tras una perturbación?
++ Vamos a seguir complicando la metáfora. Imaginemos que alguna de las relaciones tróficas que hemos propuesto implican el parasitismo. Por ejemplo, un virus que parasita a un animal salvaje. ¿Qué pasaría si desapareciera el animal parasitado y fuera reemplazado por especies domésticas? Por ejemplo, sustituimos en la savana africana el elefante por las vacas. ¿Cómo crees que afectaría esto a la probabilidad de que los antiguos parásitos del elefante llegaran a los humanos?
 
 
 
 
+## Evaluación de la sesión según los estudiantes
+Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2020-2021/presentacion/grupo.jpg" alt="grupo" style="zoom:30%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
 
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+
+Además, un estudiante dejó el siguiente comentario en el apartado de "sugerencias":
