@@ -43,6 +43,7 @@ A continuación se puede ver la presentación mencionada. [Aquí](https://github
 <p><iframe src="https://prezi.com/view/OA9ZbmokEvz2pu7DY9Iq/embed" width="1200" height="900"> </iframe></p>
 
 
+Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/community-structure-and-diversity/a/community-structure) web de Khan Academy tenéis más material y un estupendo vídeo divulgativo.
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
