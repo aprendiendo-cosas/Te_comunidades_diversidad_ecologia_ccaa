@@ -81,7 +81,7 @@ En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
 
 Y una foto de vuestra estupenda creación ;)
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/estructura_grupo.jpg" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
 
 
 
