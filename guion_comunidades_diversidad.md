@@ -36,7 +36,7 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + Diversidad.
   + Diagramas rango-abundancia
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
@@ -47,7 +47,7 @@ Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/commun
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
-Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
+Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
 La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
 
@@ -81,7 +81,7 @@ En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
 
 Y una foto de vuestra estupenda creación ;)
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
 
 
 
@@ -89,10 +89,7 @@ Y una foto de vuestra estupenda creación ;)
 ## Evaluación de la sesión según los estudiantes
 Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
 
-Además, un estudiante dejó el siguiente comentario en el apartado de "sugerencias":
-
-+ Programar en R se hace un poco pesado y también ha sido un poco confuso lo de esta práctica.
