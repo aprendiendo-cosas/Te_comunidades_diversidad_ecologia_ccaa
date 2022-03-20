@@ -71,6 +71,20 @@ A partir de aquí se formulan diversas preguntas que tienen como objeto provocar
 
 
 
+En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCc_uy75vGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Y una foto de vuestra estupenda creación ;)
+
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/estructura_grupo.jpg" alt="image" style="zoom:50%;" />
+
+
+
 
 ## Evaluación de la sesión según los estudiantes
 Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
@@ -80,3 +94,5 @@ Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.googl
 <img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
 
 Además, un estudiante dejó el siguiente comentario en el apartado de "sugerencias":
+
++ Programar en R se hace un poco pesado y también ha sido un poco confuso lo de esta práctica.
