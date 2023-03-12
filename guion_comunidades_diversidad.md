@@ -47,6 +47,14 @@ Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/commun
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
+
+
+INTRODUCIR AQUÍ CONCEPTOS COMO ESPECIES CLAVE, FUNDADORAS, PARAGUAS Y ESAS MIERDAS
+
+
+
+
+
 Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
 La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
