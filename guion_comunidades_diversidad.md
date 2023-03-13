@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/portada.png)
 
 
 
@@ -39,7 +39,7 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + Diversidad.
   + Diagramas rango-abundancia
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
@@ -52,7 +52,7 @@ Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/commun
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
-Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
+Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
 La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
 
@@ -60,6 +60,8 @@ La dinámica consiste en usar una serie de bolas de corcho o de poliestireno de 
 
 + Se pone todo el material sobre una mesa grande. Si es posible saldremos a la calle para hacerlo al aire libre.
 + Cada estudiante va acercándose a la mesa secuencialmente y va montando una parte de una estructura. Une una o dos bolas con uno o dos palitos. Cuando hace su parte deja el testigo al siguiente estudiante. Las bolas pueden tener diferentes palitos pinchados y ningún palito se quedará sin bola en el extremo. Cada estudiante dice el nombre de la especie o especies que propone que sea representada por la bola que aporta a la estructura.
++ El tamaño de la bola hace referencia a la cantidad de biomasa de la especie en cuestión en la comunidad que estamos construyendo.
++ La longitud de la conexión da idea de la intensidad de la misma. Es decir, cuanta más corta sea la distancia, más intensa es la relación. Por ejemplo, la relación entre el lince y el conejo será muy corta puesto que el lince está muy relacionado con el conejo. Es su única presa. 
 + El resultado final es una estructura tridimensional estable en la que hay dos elementos clave: nodos (bolitas) y relaciones (palitos).
 
 A partir de aquí se formulan diversas preguntas que tienen como objeto provocar la comprensión del concepto de relación trofica entre las especies de una comunidad. En concreto se pregunta lo siguiente:
@@ -80,7 +82,7 @@ En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
 
 
 
-<iframe width="560" height="315" src="xxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/EY0jAnCMrq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
