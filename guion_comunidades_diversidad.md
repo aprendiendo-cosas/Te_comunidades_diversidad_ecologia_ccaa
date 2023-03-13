@@ -1,10 +1,13 @@
 # Guión de la sesión "Comunidades. El concepto de diversidad"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
+
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/portada.png)
+
 
 
 
@@ -23,7 +26,7 @@ Esta sesión es clave dentro de la asignatura porque nos permitirá conocer por 
 
 ## Contenido
 
-La sesión consta de dos apartados diferenciados. En primer lugar se expondrán los conceptos principales relacionados con los objetivos anteriores. La última parte de la sesión implicará la realización de una dinámica de grupo en la que se abordarán los conceptos de interdependencia y conectividad entre los miembros de una comunidad ecológica.
+La sesión consta de dos apartados diferenciados. En primer lugar se expondrán los conceptos principales relacionados con los objetivos anteriores. La última parte de la sesión implicará la realización de una dinámica de grupo en la que se abordarán los conceptos de interdependencia y conectividad entre las especies que constituyen una comunidad ecológica.
 
 ### Conceptos generales sobre comunidades ecológicas.
 
@@ -45,15 +48,9 @@ A continuación se puede ver la presentación mencionada. [Aquí](https://github
 
 Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/community-structure-and-diversity/a/community-structure) web de Khan Academy tenéis más material y un estupendo vídeo divulgativo.
 
+
+
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
-
-
-
-INTRODUCIR AQUÍ CONCEPTOS COMO ESPECIES CLAVE, FUNDADORAS, PARAGUAS Y ESAS MIERDAS
-
-
-
-
 
 Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
@@ -68,7 +65,7 @@ La dinámica consiste en usar una serie de bolas de corcho o de poliestireno de 
 A partir de aquí se formulan diversas preguntas que tienen como objeto provocar la comprensión del concepto de relación trofica entre las especies de una comunidad. En concreto se pregunta lo siguiente:
 
 + Imagina que cada bola es un aeropuerto. Y que las conexiones suponen vuelos entre aeropuertos. Con esta configuración de la red, ¿podemos considerar que hay unos nodos más importantes que otros?
-+ Ahora imagina que cada nodo es una especie de la comunidad. Las conexiones representan las relaciones entre las especies.  ¿Qué quiere decir que una especie tenga más conexiones que otras?, ¿Qué pasaría si eliminamos una especie con muchas conexiones?
++ Ahora imagina que cada nodo es una especie de la comunidad. Las conexiones representan las relaciones entre las especies.  ¿Qué quiere decir que una especie tenga más conexiones que otras?, ¿Qué pasaría si eliminamos una especie con muchas conexiones? Esto nos permite introducir el concepto de "especie clave".
 + Imagina que la estructura que hemos construido refleja únicamente una parte de la complejidad de una comunidad. Es decir, hay más conexiones que no hemos identificado. ¿Qué pasa si eliminamos una especie que en nuestra estructura tiene pocas conexiones?
 + Ahora vamos a dejar de lado la metáfora que estamos usando y vamos a pensar en la estructura real que tenemos delante. Si fueras físico o ingeniero y conocieras bien las leyes físicas que gobiernan la estabilidad de la estructura, ¿tendrías dudas sobre qué bola quitar para no comprometer dicha estabilidad?. Volvamos a la metáfora, ¿Tendrías la misma certeza si tienes que elegir qué especie eliminar de una comunidad ecológica?
 + Imagina que coloreamos las bolas con cuatro colores. Cada color representa un "gremio" dentro de la comunidad: productores primarios, herbívoros, depredadores y descomponedores. Hay varias bolas del mismo color. Es decir, especies diferentes que tienen el mismo "papel" en la comunidad. Si ocurriera una perturbación, ¿Cuál de las dos estructuras siguientes sería más "resistente"?:
@@ -83,21 +80,14 @@ En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vCc_uy75vGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="xxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 Y una foto de vuestra estupenda creación ;)
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
 
 
 
-
-## Evaluación de la sesión según los estudiantes
-Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
-
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
-
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
 
