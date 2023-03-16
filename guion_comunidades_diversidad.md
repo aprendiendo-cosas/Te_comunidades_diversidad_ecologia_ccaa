@@ -111,4 +111,8 @@ Los estudiantes proponen varias respuestas cada una de las cuales integra y tras
 
 
 
-La primera respuesta es que la diversidad baja con la altura:
++ La primera respuesta es que la diversidad baja con la altura. Las razones son que en zonas altas las condiciones ambientales son más duras y hay menos especies que puedan vivir allí.
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
+
++ Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. 
