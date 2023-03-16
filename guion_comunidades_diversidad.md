@@ -38,6 +38,11 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + Riqueza de especies.
   + Diversidad.
   + Diagramas rango-abundancia
++ Dado que la diversidad es un factor clave en la caracterización de las comunidades, comentamos con más detalle los siguientes aspectos:
+  + Factores que condicionan la diversidad en la Tierra.
+  + Patrones espaciales de distribución de la diversidad.
+  + El índice de Shannon como forma de cuantificar la diversidad ecológica.
+
 
 A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.zip) para Mac.
 
@@ -92,3 +97,18 @@ Y una foto de vuestra estupenda creación ;)
 
 
 
+## Pregunta "bisagra"
+
+Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
+
+En esta ocasión, planteamos dos preguntas bisagra:
+
+>Teniendo en cuenta lo que hemos visto anteriormente, ¿cómo crees que cambiará la diversidad conforme subimos una montaña? Imagina que las partes más bajas de la montaña tienen clima casi desértico, mientras que la cumbre tiene un clima alpino. Además, ¿será similar el patrón en montañas situadas a distintas latitudes?
+
+
+
+Los estudiantes proponen varias respuestas cada una de las cuales integra y trasciende a la anterior. Entre todos damos una respuesta muy satisfactoria a la pregunta:
+
+
+
+La primera respuesta es que la diversidad baja con la altura:
