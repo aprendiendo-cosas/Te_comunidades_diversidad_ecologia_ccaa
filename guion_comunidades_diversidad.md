@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/portada.png)
 
 
 
@@ -44,11 +44,11 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + El índice de Shannon como forma de cuantificar la diversidad ecológica.
 
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
-<p><iframe src="https://prezi.com/view/OA9ZbmokEvz2pu7DY9Iq/embed" width="1200" height="900"> </iframe></p>
+<p><iframe src="https://prezi.com/view/VgpRYHbbhHYtsWkCcg7o/embed" width="1200" height="900"> </iframe></p>
 
 
 Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/community-structure-and-diversity/a/community-structure) web de Khan Academy tenéis más material y un estupendo vídeo divulgativo.
@@ -57,7 +57,7 @@ Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/commun
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
-Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
+Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
 La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
 
@@ -93,7 +93,7 @@ En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
 
 Y una foto de vuestra estupenda creación ;)
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
 
 
 
