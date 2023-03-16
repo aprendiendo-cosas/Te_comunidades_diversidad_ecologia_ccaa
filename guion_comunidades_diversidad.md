@@ -116,3 +116,5 @@ Los estudiantes proponen varias respuestas cada una de las cuales integra y tras
 <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
 
 + Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. 
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
