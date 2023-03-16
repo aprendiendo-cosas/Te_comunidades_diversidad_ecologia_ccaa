@@ -129,6 +129,11 @@ Los estudiantes proponen varias respuestas cada una de las cuales integra y tras
 
 
 
-Además de esta pregunta, durante la explicación surge otra que despierta el interés de los estudiantes. La siguiente figura muestra las claves de la pregunta.
+Además de esta pregunta, durante la explicación surge otra que despierta el interés de los estudiantes. La siguiente figura muestra sus claves.
 
-> <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/escalas.png" alt="primera" style="zoom:22%;" />
+
+
+
+> <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/escalas.png" alt="escalas" style="zoom:22%;" />
+>
+> Si calculamos el índice de Shannon considerando que el área etiquetada como **A**, ¿cómo se relacionará ese valor con los de las otras comunidades? ¿Será la suma?, ¿la media? ¿tiene la diversidad de **A** algún significado ecológico especial?
