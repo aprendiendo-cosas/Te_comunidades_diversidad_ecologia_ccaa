@@ -117,4 +117,9 @@ Los estudiantes proponen varias respuestas cada una de las cuales integra y tras
 
 + Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. 
 
+  
+
 <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
+
++ Por último, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el atlas y la primera Sierra Nevada. En primer lugar creemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Además, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada.
+
