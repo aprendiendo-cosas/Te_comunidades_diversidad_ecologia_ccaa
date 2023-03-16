@@ -123,3 +123,12 @@ Los estudiantes proponen varias respuestas cada una de las cuales integra y tras
 
 + Por último, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el atlas y la primera Sierra Nevada. En primer lugar creemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Además, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada.
 
+  
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/atlas_snevada.png" alt="primera" style="zoom:22%;" />
+
+
+
+Además de esta pregunta, durante la explicación surge otra que despierta el interés de los estudiantes. La siguiente figura muestra las claves de la pregunta.
+
+> <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/escalas.png" alt="primera" style="zoom:22%;" />
