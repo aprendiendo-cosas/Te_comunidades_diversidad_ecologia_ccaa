@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/portada.png)
 
 
 
@@ -44,7 +44,7 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + El índice de Shannon como forma de cuantificar la diversidad ecológica.
 
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
@@ -57,7 +57,7 @@ Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/commun
 
 ### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
 
-Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
+Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
 
 La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
 
@@ -93,7 +93,7 @@ En el siguiente vídeo podéis ver un resumen sobre esta dinámica.
 
 Y una foto de vuestra estupenda creación ;)
 
-<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/main/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2022-2023/imagenes/estructura_grupo.JPG" alt="image" style="zoom:50%;" />
 
 
 
@@ -113,19 +113,19 @@ Los estudiantes proponen varias respuestas cada una de las cuales integra y tras
 
 + La primera respuesta es que la diversidad baja con la altura. Las razones son que en zonas altas las condiciones ambientales son más duras y hay menos especies que puedan vivir allí.
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
 
 + Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. 
 
   
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
 
 + Por último, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el atlas y la primera Sierra Nevada. En primer lugar creemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Además, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada.
 
   
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/atlas_snevada.png" alt="primera" style="zoom:22%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/atlas_snevada.png" alt="primera" style="zoom:22%;" />
 
 
 
@@ -134,6 +134,6 @@ Además de esta pregunta, durante la explicación surge otra que despierta el in
 
 
 
-> <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/main/imagenes/escalas.png" alt="escalas" style="zoom:22%;" />
+> <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/escalas.png" alt="escalas" style="zoom:22%;" />
 >
 > Si calculamos el índice de Shannon considerando que el área etiquetada como **A**, ¿cómo se relacionará ese valor con los de las otras comunidades? ¿Será la suma?, ¿la media? ¿tiene la diversidad de **A** algún significado ecológico especial?
