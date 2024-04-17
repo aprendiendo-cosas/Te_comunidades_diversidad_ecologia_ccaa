@@ -74,7 +74,7 @@ A partir de aquí se formulan diversas preguntas que tienen como objeto provocar
 + Imagina que cada bola es un aeropuerto. Y que las conexiones suponen vuelos entre aeropuertos. Con esta configuración de la red, ¿podemos considerar que hay unos nodos más importantes que otros?
 + Ahora imagina que cada nodo es una especie de la comunidad. Las conexiones representan las relaciones entre las especies.  ¿Qué quiere decir que una especie tenga más conexiones que otras?, ¿Qué pasaría si eliminamos una especie con muchas conexiones? Esto nos permite introducir el concepto de "especie clave".
 + Imagina que la estructura que hemos construido refleja únicamente una parte de la complejidad de una comunidad. Es decir, hay más conexiones que no hemos identificado. ¿Qué pasa si eliminamos una especie que en nuestra estructura tiene pocas conexiones?
-+ Ahora vamos a dejar de lado la metáfora que estamos usando y vamos a pensar en la estructura real que tenemos delante. Si fueras físico o ingeniero y conocieras bien las leyes físicas que gobiernan la estabilidad de la estructura, ¿tendrías dudas sobre qué bola quitar para no comprometer dicha estabilidad?. Volvamos a la metáfora, ¿Tendrías la misma certeza si tienes que elegir qué especie eliminar de una comunidad ecológica?
++ Ahora vamos a dejar de lado la metáfora que estamos usando y vamos a pensar en la estructura real que tenemos delante. Si fueras físico o ingeniero y conocieras bien las leyes físicas que gobiernan la estabilidad de la estructura, ¿tendrías dudas sobre qué bola quitar para no comprometer dicha estabilidad?. Volvamos a la metáfora, ¿Tendrías la misma certeza si tienes que elegir qué especie eliminar de una comunidad ecológica? **reflexiones sobre las diferencias entre la ecología y la ingeniería**
 + Imagina que coloreamos las bolas con cuatro colores. Cada color representa un "gremio" dentro de la comunidad: productores primarios, herbívoros, depredadores y descomponedores. Hay varias bolas del mismo color. Es decir, especies diferentes que tienen el mismo "papel" en la comunidad. Si ocurriera una perturbación, ¿Cuál de las dos estructuras siguientes sería más "resistente"?:
   + Una con poca redundancia: pocas bolas del mismo color.
   + Una con mucha redundancia: muchas bolas del mismo color.
@@ -91,3 +91,30 @@ En esta ocasión, planteamos dos preguntas bisagra:
 
 >Teniendo en cuenta lo que hemos visto anteriormente, ¿cómo crees que cambiará la diversidad conforme subimos una montaña? Imagina que las partes más bajas de la montaña tienen clima casi desértico, mientras que la cumbre tiene un clima alpino. Además, ¿será similar el patrón en montañas situadas a distintas latitudes?
 
+
+
+Los estudiantes proponen varias respuestas cada una de las cuales integra y trasciende a la anterior. Entre todos damos una respuesta muy satisfactoria a la pregunta:
+
+
+
++ La primera respuesta es que la diversidad baja con la altura. Las razones son que en zonas altas las condiciones ambientales son más duras y hay menos especies que puedan vivir allí.
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
+
++ Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. 
+
+  
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
+
++ Además, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el atlas y la primera Sierra Nevada. En primer lugar creemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Además, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada.
+
+  
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/atlas_snevada.png" alt="primera" style="zoom:22%;" />
+
+
+
++ Por último, después de analizar cómo cambian los patrones de diversidad en el dominio del espacio (al subir una montaña o al cambiar la latidud), pensamos un poco sobre cómo cambiarían dichos patrones si se modificara el clima. Es una hipótesis un poco loca (¿quién podría imaginar que el clima pudiera cambiar en pocas décadas?), pero resulta interesante reflexionar sobre ello. En este sentido, nos preguntamos: en una misma montaña, ¿cómo cambiará el patrón de diversidad conforme subimos si el clima se hace más seco y cálido?
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2022-2023/imagenes/cambio_clima.png" alt="primera" style="zoom:22%;" />
