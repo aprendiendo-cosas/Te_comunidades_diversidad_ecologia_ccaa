@@ -1,12 +1,12 @@
-# Guión de la sesión "Comunidades. El concepto de diversidad"
+# Comunidades ecológicas. El concepto de diversidad
 
-
-> + **_Versión_**: 2023-2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
+> + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 2 horas.
+> + **Duración**: 1,5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2023_2024/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.png)
 
 
 
@@ -16,19 +16,18 @@
 Esta sesión es clave dentro de la asignatura porque nos permitirá conocer por primera vez el concepto de comunidad. Esto nos brindará un nivel de comprensión mayor sobre cómo las especies y los individuos interactúan para constituir ecosistemas. Este tema está íntimamente relacionado con la práctica denominada "Creación de un mapa de biodiversidad de Sierra Nevada". De manera más concreta, los objetivos de esta sesión son:
 
 + Conocer el concepto de comunidad ecológica.
+
 + Comprender el "comportamiento" de las comunidades en función de la escala espacial y temporal (esto último se abordará con detalle en el tema sobre sucesión ecológica).
+
 + Conocer algunos descriptores importantes para caracterizar las comunidades ecológicas.
+
 + Experimentar la importancia de la interdependencia de los miembros de una comunidad.
+
 + Reconocer la existencia de propiedades emergentes en el concepto de comunidad. 
-+ Construir parte del conocimiento anterior mediante una dinámica grupal en la que se promueve el pensamiento colectivo. 
 
+  
 
-
-## Contenido
-
-La sesión consta de dos apartados diferenciados. En primer lugar se expondrán los conceptos principales relacionados con los objetivos anteriores. La última parte de la sesión implicará la realización de una dinámica de grupo en la que se abordarán los conceptos de interdependencia y conectividad entre las especies que constituyen una comunidad ecológica.
-
-### Conceptos generales sobre comunidades ecológicas.
+## Conceptos generales sobre comunidades ecológicas
 
 Se usará una presentación de prezi como guía para explicar los siguientes conceptos:
 
@@ -55,34 +54,6 @@ Por último, en [esta](https://es.khanacademy.org/science/biology/ecology/commun
 
 
 
-### Dinámica de grupo sobre las relaciones entre las especies de una comunidad
-
-Esta dinámica está basado en [este](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2023_2024/biblio/aprendizaje_activo.pdf) artículo publicado por dos profesores de la Universidad Nacional de Educación de Ecuador. Además de darme la idea, me facilitaron el material para realizar la dinámica. Y lo mejor de todo es que son mis amigos :)
-
-La idea es usar una técnica de aprendizaje activo para tomar conciencia y adquirir un conocimiento profundo sobre las relaciones que hay entre las especies de una comunidad ecológica. Es la primera vez que constataremos la importancia de la palabra interdependencia. 
-
-La dinámica consiste en usar una serie de bolas de corcho o de poliestireno de diferentes tamaños y unos cuantos palitos metálicos de distinta longitud. Una vez que se han descrito los conceptos generales sobre comunidades y diversidad, se les pide a los estudiantes que construyan una estructura con el material anterior. Se procede de la siguiente forma:
-
-+ Se pone todo el material sobre una mesa grande. Si es posible saldremos a la calle para hacerlo al aire libre.
-+ Cada estudiante va acercándose a la mesa secuencialmente y va montando una parte de una estructura. Une una o dos bolas con uno o dos palitos. Cuando hace su parte deja el testigo al siguiente estudiante. Las bolas pueden tener diferentes palitos pinchados y ningún palito se quedará sin bola en el extremo. Cada estudiante dice el nombre de la especie o especies que propone que sea representada por la bola que aporta a la estructura.
-+ El tamaño de la bola hace referencia a la cantidad de biomasa de la especie en cuestión en la comunidad que estamos construyendo.
-+ La longitud de la conexión da idea de la intensidad de la misma. Es decir, cuanta más corta sea la distancia, más intensa es la relación. Por ejemplo, la relación entre el lince y el conejo será muy corta puesto que el lince está muy relacionado con el conejo. Es su única presa. 
-+ El resultado final es una estructura tridimensional estable en la que hay dos elementos clave: nodos (bolitas) y relaciones (palitos).
-
-A partir de aquí se formulan diversas preguntas que tienen como objeto provocar la comprensión del concepto de relación trofica entre las especies de una comunidad. En concreto se pregunta lo siguiente:
-
-+ Imagina que cada bola es un aeropuerto. Y que las conexiones suponen vuelos entre aeropuertos. Con esta configuración de la red, ¿podemos considerar que hay unos nodos más importantes que otros?
-+ Ahora imagina que cada nodo es una especie de la comunidad. Las conexiones representan las relaciones entre las especies.  ¿Qué quiere decir que una especie tenga más conexiones que otras?, ¿Qué pasaría si eliminamos una especie con muchas conexiones? Esto nos permite introducir el concepto de "especie clave".
-+ Imagina que la estructura que hemos construido refleja únicamente una parte de la complejidad de una comunidad. Es decir, hay más conexiones que no hemos identificado. ¿Qué pasa si eliminamos una especie que en nuestra estructura tiene pocas conexiones?
-+ Ahora vamos a dejar de lado la metáfora que estamos usando y vamos a pensar en la estructura real que tenemos delante. Si fueras físico o ingeniero y conocieras bien las leyes físicas que gobiernan la estabilidad de la estructura, ¿tendrías dudas sobre qué bola quitar para no comprometer dicha estabilidad?. Volvamos a la metáfora, ¿Tendrías la misma certeza si tienes que elegir qué especie eliminar de una comunidad ecológica? **reflexiones sobre las diferencias entre la ecología y la ingeniería**
-+ Imagina que coloreamos las bolas con cuatro colores. Cada color representa un "gremio" dentro de la comunidad: productores primarios, herbívoros, depredadores y descomponedores. Hay varias bolas del mismo color. Es decir, especies diferentes que tienen el mismo "papel" en la comunidad. Si ocurriera una perturbación, ¿Cuál de las dos estructuras siguientes sería más "resistente"?:
-  + Una con poca redundancia: pocas bolas del mismo color.
-  + Una con mucha redundancia: muchas bolas del mismo color.
-+ Igualmente, ¿cuál de las dos comunidades crees que se recuperará antes tras una perturbación?
-+ Vamos a seguir complicando la metáfora. Imaginemos que alguna de las relaciones tróficas que hemos propuesto implican el parasitismo. Por ejemplo, un virus que parasita a un animal salvaje. ¿Qué pasaría si desapareciera el animal parasitado y fuera reemplazado por especies domésticas? Por ejemplo, sustituimos en la savana africana el elefante por las vacas. ¿Cómo crees que afectaría esto a la probabilidad de que los antiguos parásitos del elefante llegaran a los humanos?
-
-
-
 ## Pregunta "bisagra"
 
 Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
@@ -93,28 +64,18 @@ En esta ocasión, planteamos dos preguntas bisagra:
 
 
 
-Los estudiantes proponen varias respuestas cada una de las cuales integra y trasciende a la anterior. Entre todos damos una respuesta muy satisfactoria a la pregunta:
 
 
 
-+ La primera respuesta es que la diversidad baja con la altura. Las razones son que en zonas altas las condiciones ambientales son más duras y hay menos especies que puedan vivir allí.
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2023_2024/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
+****
 
-+ Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. 
+[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
-  
+****
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2023_2024/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
+****
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
-+ Además, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el atlas y la primera Sierra Nevada. En primer lugar creemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Además, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada.
-
-  
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2023_2024/imagenes/atlas_snevada.png" alt="primera" style="zoom:22%;" />
-
-
-
-+ Por último, después de analizar cómo cambian los patrones de diversidad en el dominio del espacio (al subir una montaña o al cambiar la latidud), pensamos un poco sobre cómo cambiarían dichos patrones si se modificara el clima. Es una hipótesis un poco loca (¿quién podría imaginar que el clima pudiera cambiar en pocas décadas?), pero resulta interesante reflexionar sobre ello. En este sentido, nos preguntamos: en una misma montaña, ¿cómo cambiará el patrón de diversidad conforme subimos si el clima se hace más seco y cálido?
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/2023_2024/imagenes/cambio_clima.png" alt="primera" style="zoom:52%;" />
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
