@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1,5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2024_2025/imagenes/portada.png)
 
 
 
@@ -20,8 +20,6 @@ Esta sesión es clave dentro de la asignatura porque nos permitirá conocer por 
 + Comprender el "comportamiento" de las comunidades en función de la escala espacial y temporal (esto último se abordará con detalle en el tema sobre sucesión ecológica).
 
 + Conocer algunos descriptores importantes para caracterizar las comunidades ecológicas.
-
-+ Experimentar la importancia de la interdependencia de los miembros de una comunidad.
 
 + Reconocer la existencia de propiedades emergentes en el concepto de comunidad. 
 
@@ -43,7 +41,7 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + El índice de Shannon como forma de cuantificar la diversidad ecológica.
 
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2023_2024/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2023_2024/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2023_2024/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2025_2025/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2024_2025/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2024_2025/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
@@ -64,7 +62,31 @@ En esta ocasión, planteamos dos preguntas bisagra:
 
 
 
+Los estudiantes proponen varias respuestas cada una de las cuales integra y trasciende a la anterior. Entre todos damos una respuesta muy satisfactoria a la pregunta:
 
+
+
++ La primera respuesta es que la diversidad baja con la altura. Las razones son que en zonas altas las condiciones ambientales son más duras y hay menos especies que puedan vivir allí. Además, se comenta que hay poco oxígeno en las montañas y que eso limita la vida. Esto nos permite hablar de la ley del mínimo de Liebig. En realidad, es muy difícil que el oxígeno sea limitante para la vida de las plantas. Son el agua y los nutrientes los limitantes principales. Y según la ley mencionada anteriormente, un sistema o un organismo crece (o funciona) al ritmo o tasa a la que está disponible el recurso que necesita y que es más limitante. Por tanto, si los recursos limitantes son casi siempre agua y nutrientes, el oxígeno nunca limitará. Para que el oxígeno sea limitante, todos los demás (agua, nutrientes, dióxido de carbono y luz) deben de abundar muchísimo. Volviendo al asunto que nos ocupa, la siguiente gráfica muestra nuestra primera hipótesis: la diversidad baja al subir en una montaña. 
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2024_2025/imagenes/mas_altura_menos_div.png" alt="primera" style="zoom:22%;" />
+
++ Pero el enunciado de la pregunta dice que en la parte baja de la montaña hay una zona desértica. Esto hace que nos replanteemos la respuesta. Ahora la diversidad sube al principio y luego baja. En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. Al principio nos cuesta deducir este patrón porque tendemos a creer que la solución debe de ser una línea recta, pero rápidamente vemos lo descrito anteriormente. Visualizar cómo sería la vegetación en un gradiente de altura nos ayuda a entender lo que decimos. 
+
+  
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2024_2025/imagenes/unimodal.png" alt="primera" style="zoom:22%;" />
+
++ Además, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el Atlas de Marruecos y la primera Sierra Nevada. En primer lugar, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada. Después proponemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Eso explica por qué la curva del Atlas es más baja y está más desplazada hacia la derecha. 
+
+  
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2024_2025/imagenes/atlas_snevada.png" alt="primera" style="zoom:22%;" />
+
+
+
++ Por último, después de analizar cómo cambian los patrones de diversidad en el dominio del espacio (al subir una montaña o al cambiar la latidud), pensamos un poco sobre cómo cambiarían dichos patrones si se modificara el clima. Es una hipótesis un poco loca (¿quién podría imaginar que el clima pudiera cambiar en pocas décadas?), pero resulta interesante reflexionar sobre ello. En este sentido, nos preguntamos: en una misma montaña, ¿cómo cambiará el patrón de diversidad conforme subimos si el clima se hace más seco y cálido?
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2024_2025/imagenes/cambio_clima.png" alt="primera" style="zoom:52%;" />
 
 
 
