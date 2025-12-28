@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1,5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2025_2026/imagenes/portada.png)
 
 
 
@@ -41,7 +41,7 @@ Se usará una presentación de prezi como guía para explicar los siguientes con
   + El índice de Shannon como forma de cuantificar la diversidad ecológica.
 
 
-A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2024_2025/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2024_2025/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2024_2025/presentacion/comunidades_diversidad.zip) para Mac.
+A continuación se puede ver la presentación mencionada. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2025_2026/presentacion/comunidades_diversidad.pdf) se puede descargar en formato pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2025_2026/presentacion/comunidades_diversidad.exe) se puede descargar la versión interactiva para Windows. Y [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/raw/2025_2026/presentacion/comunidades_diversidad.zip) para Mac.
 
 
 
@@ -61,12 +61,31 @@ En esta ocasión, planteamos dos preguntas bisagra:
 >Teniendo en cuenta lo que hemos visto anteriormente, ¿cómo crees que cambiará la diversidad conforme subimos una montaña? Imagina que las partes más bajas de la montaña tienen clima casi desértico, mientras que la cumbre tiene un clima alpino. Además, ¿será similar el patrón en montañas situadas a distintas latitudes?
 
 
+Los estudiantes proponen varias respuestas cada una de las cuales integra y trasciende a la anterior. Entre todos damos una respuesta muy satisfactoria a la pregunta:
+
+
++ La primera respuesta identifica claramente un patrón interesante: En las partes bajas el clima es muy seco. Conforme subimos, se hace más húmedo y esto aumenta la diversidad. Luego se hace demasiado frío y vuelve a bajar. Es decir, tanto en zonas altas como bajas la diversidad es baja porque las condiciones ambientales son duras. 
+
+  ![gradiente](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2025_2026/imagenes/unimodal.png)
+
++ Además, reflexionamos sobre cómo cambiará esta curva si la montaña que estamos estudiando está unos 1000 Km más al sur. Es decir, imaginamos que la segunda montaña es el Atlas de Marruecos y la primera Sierra Nevada. En primer lugar, deducimos que la curva se desplazará a la derecha porque el clima es más cálido. Es decir, si tenemos dos puntos con la misma altura, el de Sierra Nevada tendrá una temperatura menor que el de Atlas. Esto hace que la altura a la que se alcanza la diversidad máxima, es mayor en el Atlas que en Sierra Nevada. Después proponemos que en el Atlas habrá menos diversidad en general porque el clima es más árido. Eso explica por qué la curva del Atlas es más baja y está más desplazada hacia la derecha. 
+
+  
+
+![atlas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2025_2026/imagenes/atlas_snevada.png)
+
+
++ Por último, después de analizar cómo cambian los patrones de diversidad en el dominio del espacio (al subir una montaña o al cambiar la latidud), pensamos un poco sobre cómo cambiarían dichos patrones si se modificara el clima. Es una hipótesis un poco loca (¿quién podría imaginar que el clima pudiera cambiar en pocas décadas?), pero resulta interesante reflexionar sobre ello. En este sentido, nos preguntamos: en una misma montaña, ¿cómo cambiará el patrón de diversidad conforme subimos si el clima se hace más seco y cálido?
+
+![clima](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/refs/tags/2025_2026/imagenes/cambio_clima.png)
+
+
 
 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_comunidades_diversidad_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
