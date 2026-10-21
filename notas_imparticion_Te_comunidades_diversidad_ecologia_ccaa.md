@@ -27,6 +27,10 @@
   
   - [ ] Modificar todo para ajustarlo a lo que haya concluido sobre el comentario anterior sobre la diversidad de tipos de relaciones tróficas.
   - [ ] Estoy valorando la posibilidad de explicar la diversidad después de las interacciones. Creo que esto nos daría una mirada más profunda porque podríamos incorporar a la descripción el peso de las interacciones tróficas. El problema de esto es que descuadraría las prácticas del índice de Shannon y la coordinación con SIG quizás.
-  - [ ] 
+  - [ ] Si no explico la diversidad después de las interacciones, creo que tendría sentido enriquecer el análisis de los factores que hacen que cambie la diversidad. Por ahora hablas solo de cambios en el espacio y en algunas dimensiones del mismo. Habría que incorporar también el cambio en el tiempo. Algo así:
+    - Espacio:
+      - Factores ambientales: estabilidad, heterogeneidad (conectar con diversidad gamma, etc.)
+      - Factores topológicos: tamaño de la comunidad -> esto es un aterrizaje estupendo en la biogeografía de islas, creo. 
+    - Tiempo: sucesión ecológica y evolución
   
   
